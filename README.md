@@ -1,6 +1,6 @@
 # Tea cozy
 > This is a practice project that I'm doing for Codecademy.
-> Live demo [_here_](https://www.example.com). <!-- Once I update the project on git hub I'll have the link here. -->
+> Live demo [_here_](https://lfrancos.github.io/tea-cozy/). <!-- Once I update the project on git hub I'll have the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
