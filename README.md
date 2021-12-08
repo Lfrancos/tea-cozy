@@ -33,7 +33,6 @@ Project is: _in progress_.
 
 ## Room for Improvement
 
-Room for improvement:
 - Needs to be responsive.
 
 

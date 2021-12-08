@@ -23,6 +23,10 @@ header div {
     justify-content: space-between;
     align-items: center;
     background-color: black;
+
+}
+header a {
+    color: seashell;
 }
 
 ul {
@@ -122,17 +126,22 @@ main {
 
 #locations img {
     /* height: 500px; */
+    width: 1200px;
     /* position: relative; */
     overflow: hidden;
+    object-fit: cover;
+    /* top: 30px; */
+    object-position: center;
+
 }
 #locations {
     margin-top: 4rem;
     position: relative;
-    height: 500px;
+    height: 550px;
     overflow: hidden;
     text-align: center;
 }
-.location h2 {
+.location h2, h3 {
     margin: 0;
 }
 .location {
@@ -162,8 +171,12 @@ main {
     /* flex-basis: 300px; */
     opacity: 1;
 }
-.box p, h3 {
+.box p, h4 {
     margin: 0px;
+}
+
+.box p {
+    font-size: 20px;
 }
 
 
